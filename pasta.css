@@ -1,0 +1,126 @@
+header {
+    position: relative;
+    height: 200px;
+    border-bottom: solid gray 25px;
+
+}
+
+#angela {
+    width: 120px;
+    height: 125px;
+    position: absolute;
+    top: 50px;
+}
+
+h1 {
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    position: absolute;
+    left: 130px;
+    top: 20px;
+}
+
+h5 {
+    position: absolute;
+    top: 77px;
+    left: 140px;
+    color: gray;
+    font-size: medium;
+}
+
+header div {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    display: flow-root;
+}
+
+.right {
+    width: 25px;
+    height: 25px;
+}
+
+img {
+    width: 200px;   
+    height: 300px;
+}
+
+main div {
+    position: relative;
+}
+
+h2 {
+    font-size: 66px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h4 {
+    color: gray;
+    position: absolute;
+    top: 60px;
+}
+
+.mainpic {
+width: 100%;
+height: 400px;
+}
+
+main p {
+    font-size: 30px;
+    color: darkgray;
+}
+
+ul { 
+    color: darkgreen;
+    padding: 50px;
+    background-image: url("https://i.pinimg.com/736x/b0/42/a6/b042a666e806eff20f3b2f49125b25bd.jpg");
+    background-repeat: no-repeat;
+    background-size: 310px 260px;
+    position: relative;
+    left: 33%;
+} 
+
+#about {
+    width: 100px;
+    height: 120px;
+    padding-top: 70px;
+}
+
+h3 {
+    font-size: 25px;
+    position: relative;
+    left: 120px;
+    bottom: 140px;
+    color: gray;
+    font-style: italic;
+}
+
+.me {
+    font-size: 20px;
+    position: relative;
+    left: 120px;
+    bottom: 140px;
+    color: darkgray;   
+}
+
+button {
+    position: relative;
+    left: 1150px;
+    bottom: 305px;
+    width: 100px;
+    height: 80px;
+}
+
+#last {
+    border-top: solid gray 20px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+
+
